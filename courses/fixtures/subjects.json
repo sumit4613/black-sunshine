@@ -1,0 +1,72 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "created": "2020-12-12T16:05:33.595Z",
+    "modified": "2020-12-12T16:05:33.595Z",
+    "title": "Physics",
+    "slug": "physics"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "created": "2020-12-12T16:05:42.645Z",
+    "modified": "2020-12-12T16:05:42.645Z",
+    "title": "Mathematics",
+    "slug": "mathematics"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "created": "2020-12-12T16:05:52.941Z",
+    "modified": "2020-12-12T16:05:52.941Z",
+    "title": "Informatics Practices",
+    "slug": "informatics-practices"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "created": "2020-12-12T16:06:03.629Z",
+    "modified": "2020-12-12T16:06:03.629Z",
+    "title": "Chemistry",
+    "slug": "chemistry"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "created": "2020-12-12T16:06:13.947Z",
+    "modified": "2020-12-12T16:06:13.947Z",
+    "title": "English",
+    "slug": "english"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "created": "2020-12-12T16:06:36.188Z",
+    "modified": "2020-12-12T16:06:36.188Z",
+    "title": "Economics",
+    "slug": "economics"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "created": "2020-12-12T16:07:08.733Z",
+    "modified": "2020-12-12T16:07:08.733Z",
+    "title": "History",
+    "slug": "history"
+  }
+}
+]
